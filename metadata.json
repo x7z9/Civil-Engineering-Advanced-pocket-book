@@ -1,0 +1,6 @@
+{
+  "name": "Indian Civil Engineering Pocketbook",
+  "description": "Offline-first visual pocketbook and engineering field reference for Indian civil engineering and house construction, grounded in BIS standards, NBC, and official Government publications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
